@@ -1,0 +1,142 @@
+---
+title: "Webtechnológiák házi feladat"
+author: Szegedi Marcell
+output:
+  html_document
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+conda
+-----
+
+<https://docs.conda.io/en/latest/miniconda.html>
+
+Ez a program azért szükséges hogy telepíteni tudjunk a html fájl létrehozásához szükséges Python, R, stb. csomagokat.
+
+
+
+make
+----
+
+<https://anaconda.org/anaconda/make>
+
+
+```
+conda install make
+```
+
+
+pandoc
+------
+
+<https://pandoc.org/installing.html>
+
+```
+conda install pandoc
+```
+
+
+python
+------
+
+<https://anaconda.org/anaconda/python>
+
+```
+conda install python
+```
+
+
+matplotlib
+----------
+
+<https://anaconda.org/conda-forge/matplotlib>
+
+```
+conda install matplotlib
+```
+
+<>
+
+wordcloud
+---------
+
+<https://cran.r-project.org/web/packages/wordcloud/index.html>
+
+```
+conda install wordcloud
+```
+
+
+urllib3
+-------
+
+<https://anaconda.org/conda-forge/urllib3>
+
+```
+conda install urllib3
+```
+
+
+r
+-
+
+<https://anaconda.org/r/r>
+
+```
+conda install r
+```
+
+
+r-ggplot2
+---------
+
+<https://cran.r-project.org/web/packages/ggplot2/index.html>
+
+```
+conda install r-ggplot2
+```
+
+r-hrbrthemes
+------------
+
+<https://cran.r-project.org/web/packages/hrbrthemes/index.html>
+
+```
+conda install r-hrbrthemes
+```
+
+
+r-rmarkdown
+-----------
+
+<https://cran.r-project.org/web/packages/rmarkdown/index.html>
+
+```
+conda install r-rmarkdown
+```
+
+
+r-reticulate
+------------
+
+<https://cran.r-project.org/web/packages/reticulate/index.html>
+
+```
+conda install r-reticulate
+```
+
+
+
+r-tinytex
+---------
+
+<https://cran.r-project.org/web/packages/tinytex/index.html>
+
+
+```
+conda install r-tinytex
+```
